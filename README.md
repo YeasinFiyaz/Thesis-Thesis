@@ -1,2 +1,2 @@
-# VIT-Vision-Information-Transfer-
+# VIT-Vision-Model
 Worked for Thesis
